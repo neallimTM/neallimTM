@@ -1,0 +1,5 @@
+- 👋 hi, this is neal's TM github account! (@neallimTM)
+- 👀 i'm interested in software development and data science work
+- 🌱 i'm currently learning data pipelines and new big data platforms!
+- 💞️ i'm looking to collaborate on *nothing new at the moment!* working on finishing all on-going projects in the meantime
+- 📫 how to reach me: email neall@thinkingmachin.es
